@@ -2,7 +2,7 @@
   "name": "js-samples",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pandamako.github.io/js-sample",
+  "homepage": "http://pandamako.github.io/js-samples",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.0",
