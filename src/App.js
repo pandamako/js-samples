@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import FB from 'fb';
 import logo from './logo.svg';
 import './App.css';
 
